@@ -64,7 +64,6 @@ swayimg
 fzf
 vi
 less
-zoxide
 yazi
 starship
 fastfetch
