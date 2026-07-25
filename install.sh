@@ -371,8 +371,8 @@ if [ -f "$HOME/.config/systemd/user/battery-monitor.timer" ]; then
   echo -e "${GREEN}Battery monitor enabled${NC}"
 fi
 
-# Initialize Theme Manager (Default: Deep Sea)
-DEFAULT_THEME="deep-sea"
+# Initialize Theme Manager (Default: white)
+DEFAULT_THEME="white"
 echo ""
 echo -e "${YELLOW}Initializing Theme Manager (Default: ${DEFAULT_THEME})...${NC}"
 THEME_DIR="$HOME/.config/hypr/themes/$DEFAULT_THEME"
