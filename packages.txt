@@ -33,13 +33,11 @@ gvfs
 unzip
 libusb
 zip
-cpupower
-btop
+htop
 power-profiles-daemon
 qt5-wayland
 qt6-wayland
 kvantum
-thermald
 
 # networking
 dnsmasq
@@ -74,8 +72,8 @@ lsd
 git
 jq
 bash-completion
-ripgrep
 lazygit
+firefox
 
 # Fonts
 ttf-jetbrains-mono-nerd
